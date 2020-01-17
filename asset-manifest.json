@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/besttimelines4ever/static/js/main.664a4467.chunk.js",
-    "main.js.map": "/besttimelines4ever/static/js/main.664a4467.chunk.js.map",
+    "main.js": "/besttimelines4ever/static/js/main.258896b2.chunk.js",
+    "main.js.map": "/besttimelines4ever/static/js/main.258896b2.chunk.js.map",
     "runtime-main.js": "/besttimelines4ever/static/js/runtime-main.345779e5.js",
     "runtime-main.js.map": "/besttimelines4ever/static/js/runtime-main.345779e5.js.map",
     "static/css/2.a641e29a.chunk.css": "/besttimelines4ever/static/css/2.a641e29a.chunk.css",
-    "static/js/2.5ce0d84f.chunk.js": "/besttimelines4ever/static/js/2.5ce0d84f.chunk.js",
-    "static/js/2.5ce0d84f.chunk.js.map": "/besttimelines4ever/static/js/2.5ce0d84f.chunk.js.map",
+    "static/js/2.fb4bd12b.chunk.js": "/besttimelines4ever/static/js/2.fb4bd12b.chunk.js",
+    "static/js/2.fb4bd12b.chunk.js.map": "/besttimelines4ever/static/js/2.fb4bd12b.chunk.js.map",
     "index.html": "/besttimelines4ever/index.html",
-    "precache-manifest.fdae702cacb84b4b85ebed9222e86215.js": "/besttimelines4ever/precache-manifest.fdae702cacb84b4b85ebed9222e86215.js",
+    "precache-manifest.6f2db412aa8bbb3d1466273b475d6e1a.js": "/besttimelines4ever/precache-manifest.6f2db412aa8bbb3d1466273b475d6e1a.js",
     "service-worker.js": "/besttimelines4ever/service-worker.js",
     "static/css/2.a641e29a.chunk.css.map": "/besttimelines4ever/static/css/2.a641e29a.chunk.css.map",
-    "static/js/2.5ce0d84f.chunk.js.LICENSE": "/besttimelines4ever/static/js/2.5ce0d84f.chunk.js.LICENSE"
+    "static/js/2.fb4bd12b.chunk.js.LICENSE": "/besttimelines4ever/static/js/2.fb4bd12b.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.345779e5.js",
     "static/css/2.a641e29a.chunk.css",
-    "static/js/2.5ce0d84f.chunk.js",
-    "static/js/main.664a4467.chunk.js"
+    "static/js/2.fb4bd12b.chunk.js",
+    "static/js/main.258896b2.chunk.js"
   ]
 }
