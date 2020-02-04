@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.js": "/besttimelines4ever/static/js/main.258896b2.chunk.js",
-    "main.js.map": "/besttimelines4ever/static/js/main.258896b2.chunk.js.map",
-    "runtime-main.js": "/besttimelines4ever/static/js/runtime-main.345779e5.js",
-    "runtime-main.js.map": "/besttimelines4ever/static/js/runtime-main.345779e5.js.map",
+    "main.css": "/besttimelines4ever/static/css/main.ab8c8bea.chunk.css",
+    "main.js": "/besttimelines4ever/static/js/main.2fb39811.chunk.js",
+    "main.js.map": "/besttimelines4ever/static/js/main.2fb39811.chunk.js.map",
+    "runtime-main.js": "/besttimelines4ever/static/js/runtime-main.692df978.js",
+    "runtime-main.js.map": "/besttimelines4ever/static/js/runtime-main.692df978.js.map",
     "static/css/2.a641e29a.chunk.css": "/besttimelines4ever/static/css/2.a641e29a.chunk.css",
-    "static/js/2.fb4bd12b.chunk.js": "/besttimelines4ever/static/js/2.fb4bd12b.chunk.js",
-    "static/js/2.fb4bd12b.chunk.js.map": "/besttimelines4ever/static/js/2.fb4bd12b.chunk.js.map",
+    "static/js/2.136b4aa5.chunk.js": "/besttimelines4ever/static/js/2.136b4aa5.chunk.js",
+    "static/js/2.136b4aa5.chunk.js.map": "/besttimelines4ever/static/js/2.136b4aa5.chunk.js.map",
     "index.html": "/besttimelines4ever/index.html",
-    "precache-manifest.6f2db412aa8bbb3d1466273b475d6e1a.js": "/besttimelines4ever/precache-manifest.6f2db412aa8bbb3d1466273b475d6e1a.js",
+    "precache-manifest.197f69208acacff5c07ceba3488c4827.js": "/besttimelines4ever/precache-manifest.197f69208acacff5c07ceba3488c4827.js",
     "service-worker.js": "/besttimelines4ever/service-worker.js",
     "static/css/2.a641e29a.chunk.css.map": "/besttimelines4ever/static/css/2.a641e29a.chunk.css.map",
-    "static/js/2.fb4bd12b.chunk.js.LICENSE": "/besttimelines4ever/static/js/2.fb4bd12b.chunk.js.LICENSE"
+    "static/css/main.ab8c8bea.chunk.css.map": "/besttimelines4ever/static/css/main.ab8c8bea.chunk.css.map",
+    "static/js/2.136b4aa5.chunk.js.LICENSE": "/besttimelines4ever/static/js/2.136b4aa5.chunk.js.LICENSE",
+    "static/media/wbw-your-baby-w02-article.jpg": "/besttimelines4ever/static/media/wbw-your-baby-w02-article.ab2fa8c3.jpg",
+    "static/media/wbw-your-baby-w03-article.jpg": "/besttimelines4ever/static/media/wbw-your-baby-w03-article.f7bed9ea.jpg",
+    "static/media/wbw-your-baby-w25-article.jpg": "/besttimelines4ever/static/media/wbw-your-baby-w25-article.9445ecce.jpg",
+    "static/media/wbw-your-baby-w26-article.jpg": "/besttimelines4ever/static/media/wbw-your-baby-w26-article.a5199e1e.jpg",
+    "static/media/wbw-your-baby-w27-article.jpg": "/besttimelines4ever/static/media/wbw-your-baby-w27-article.c8652d8f.jpg",
+    "static/media/wbw-your-baby-w28-article.jpg": "/besttimelines4ever/static/media/wbw-your-baby-w28-article.7e15112d.jpg",
+    "static/media/wbw-your-baby-w39-article.jpg": "/besttimelines4ever/static/media/wbw-your-baby-w39-article.458b9040.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.345779e5.js",
+    "static/js/runtime-main.692df978.js",
     "static/css/2.a641e29a.chunk.css",
-    "static/js/2.fb4bd12b.chunk.js",
-    "static/js/main.258896b2.chunk.js"
+    "static/js/2.136b4aa5.chunk.js",
+    "static/css/main.ab8c8bea.chunk.css",
+    "static/js/main.2fb39811.chunk.js"
   ]
 }
