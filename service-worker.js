@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/besttimelines4ever/precache-manifest.a40eddf007001cfce07a4befd4837e5e.js"
+  "/besttimelines4ever/precache-manifest.c6d2f5fea79bdfb73f827c1171555033.js"
 );
 
 self.addEventListener('message', (event) => {
