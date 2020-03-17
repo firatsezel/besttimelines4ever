@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/besttimelines4ever/static/css/main.18cd0af8.chunk.css",
-    "main.js": "/besttimelines4ever/static/js/main.ffd8a15d.chunk.js",
-    "main.js.map": "/besttimelines4ever/static/js/main.ffd8a15d.chunk.js.map",
+    "main.js": "/besttimelines4ever/static/js/main.c6478eaa.chunk.js",
+    "main.js.map": "/besttimelines4ever/static/js/main.c6478eaa.chunk.js.map",
     "runtime-main.js": "/besttimelines4ever/static/js/runtime-main.692df978.js",
     "runtime-main.js.map": "/besttimelines4ever/static/js/runtime-main.692df978.js.map",
     "static/css/2.a641e29a.chunk.css": "/besttimelines4ever/static/css/2.a641e29a.chunk.css",
-    "static/js/2.49e27fad.chunk.js": "/besttimelines4ever/static/js/2.49e27fad.chunk.js",
-    "static/js/2.49e27fad.chunk.js.map": "/besttimelines4ever/static/js/2.49e27fad.chunk.js.map",
+    "static/js/2.fa24e222.chunk.js": "/besttimelines4ever/static/js/2.fa24e222.chunk.js",
+    "static/js/2.fa24e222.chunk.js.map": "/besttimelines4ever/static/js/2.fa24e222.chunk.js.map",
     "index.html": "/besttimelines4ever/index.html",
-    "precache-manifest.9bd9537155b6470c881b5ee3666171e6.js": "/besttimelines4ever/precache-manifest.9bd9537155b6470c881b5ee3666171e6.js",
+    "precache-manifest.62ddcde00cbc6aec6cf2aa50bbe465f2.js": "/besttimelines4ever/precache-manifest.62ddcde00cbc6aec6cf2aa50bbe465f2.js",
     "service-worker.js": "/besttimelines4ever/service-worker.js",
     "static/css/2.a641e29a.chunk.css.map": "/besttimelines4ever/static/css/2.a641e29a.chunk.css.map",
     "static/css/main.18cd0af8.chunk.css.map": "/besttimelines4ever/static/css/main.18cd0af8.chunk.css.map",
-    "static/js/2.49e27fad.chunk.js.LICENSE": "/besttimelines4ever/static/js/2.49e27fad.chunk.js.LICENSE",
+    "static/js/2.fa24e222.chunk.js.LICENSE": "/besttimelines4ever/static/js/2.fa24e222.chunk.js.LICENSE",
     "static/media/logo.png": "/besttimelines4ever/static/media/logo.90edb8db.png",
     "static/media/wbw-your-baby-w02-article.jpg": "/besttimelines4ever/static/media/wbw-your-baby-w02-article.ab2fa8c3.jpg",
     "static/media/wbw-your-baby-w03-article.jpg": "/besttimelines4ever/static/media/wbw-your-baby-w03-article.f7bed9ea.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.692df978.js",
     "static/css/2.a641e29a.chunk.css",
-    "static/js/2.49e27fad.chunk.js",
+    "static/js/2.fa24e222.chunk.js",
     "static/css/main.18cd0af8.chunk.css",
-    "static/js/main.ffd8a15d.chunk.js"
+    "static/js/main.c6478eaa.chunk.js"
   ]
 }
